@@ -1,0 +1,20 @@
+.createUser {
+  margin-top: 5%;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  float: left;
+}
+
+.containerAllCreate {
+  margin-top: 5%;
+}
+
+.createUser {
+  border-radius: 16.5px;
+  height: 50px;
+  width: 180px;
+  outline: none;
+  border: 2px solid #ffffff;
+}
